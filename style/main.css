@@ -1,0 +1,20 @@
+/* 
+	@author: Istiaq Hasan
+	@email: istiaq.me@gmail.com
+	---- Related Libs & Media Files Like Images And Sounds Are From Their Respected Owners ----
+*/
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+	overflow: hidden;
+}
+
+canvas {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
